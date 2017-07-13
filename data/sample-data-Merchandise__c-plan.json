@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Merchandise__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sample-data-Merchandise__cs.json"
+        ]
+    }
+]
