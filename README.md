@@ -1,12 +1,12 @@
 ## Northern Trail Outfitters Sample App
 
-Read [this blog post](https://developer.salesforce.com/blogs/developer-relations/2017/07/northern-trail-outfitters-new-sample-application-lightning-components-platform-events-salesforce-dx.html) fto learn more about the application.
+Read [this blog post](https://developer.salesforce.com/blogs/developer-relations/2017/07/northern-trail-outfitters-new-sample-application-lightning-components-platform-events-salesforce-dx.html) to learn more about the application.
 
 ## Installation Instructions
 
 1. Authenticate with your hub org (if not already done):
     ```
-    sfdx force:auth:web:login -d -a gs0hub
+    sfdx force:auth:web:login -d -a myhuborg
     ```
 
 1. Clone the northern-trail repository:
