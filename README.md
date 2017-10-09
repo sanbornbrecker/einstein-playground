@@ -11,7 +11,7 @@ Read [this blog post](https://developer.salesforce.com/blogs/developer-relations
 
 1. Clone the northern-trail repository:
     ```
-    git clone https://github.com/trailheadx/northern-trail
+    git clone https://github.com/ccoenraets/northern-trail
     cd northern-trail
     ```
 
