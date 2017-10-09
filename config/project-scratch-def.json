@@ -1,7 +1,7 @@
 {
     "orgName": "ccoenraets Company",
     "edition": "Developer",
-    "hasSampleData": "true",
+    "hasSampleData": "false",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }

@@ -1,7 +1,7 @@
 global with sharing class EinsteinController {
     
     // Modify with value of the email account you used to generate your Einstein key
-    private static String einsteinAccountEmail = 'ccoenraets@salesforce.com';
+    private static String einsteinAccountEmail = 'EMAIL_ADDRESS_USED_FOR_EINSTEIN_ACCOUNT';
 
     public static String API_URL = 'https://api.einstein.ai/v2';
     public static String OAUTH_URL = API_URL + '/oauth2/token';
