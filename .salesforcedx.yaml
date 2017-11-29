@@ -5,4 +5,4 @@ run-apex-tests: false
 delete-scratch-org: false
 show-scratch-org-url: true
 data-plans:
-  - ./data/sample-data-Merchandise__c-plan.json
+  - ./data/sample-data-plan.json
