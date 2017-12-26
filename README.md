@@ -30,7 +30,7 @@ Deploy to SFDX using the button below:
 
 1. Assign the EP permission set to the default user:
     ```
-    sfdx force:user:permset:assign -n nto
+    sfdx force:user:permset:assign -n EP
     ```
 
 1. Open the scratch org:
