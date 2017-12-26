@@ -38,6 +38,13 @@ Deploy to SFDX using the button below:
     sfdx force:org:open
     ```
 
-1. Click the **Merchandise Mixes** tab, and click a merchandise mix
+1. Upload einstein_platform.pem to File menu
+    ```
 
-1. Drag Merchandise from the right sidebar into the merchandise mix
+1. Launch Developer Console and edit EinsteinController.apexc
+    ```
+    einsteinAccountEmail = ‘Your Email Address for Einstein Platform’
+    ```
+
+1. Launch Lightning App Builder and edit visionModelId/sentimentModelId/intentModelId
+    ```
